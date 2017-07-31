@@ -4,8 +4,8 @@ antecessora” para o input aAbBABacafe, percebi que a Vogal "a" adequa-se corre
 
 aAbBABacafe
 
-“No exemplo, "a" é o primeiro caracter Vogal da stream que não se repete após a primeira 
-Consoante "c" o qual tem uma vogal "a" como antecessora” 
+No exemplo, "a" é o primeiro caracter Vogal da stream que não se repete após a primeira 
+Consoante "c" o qual tem uma vogal "a" como antecessora 
 
 Tendo isso, vejo uma possibilidade para que o exemplo do desafio esteja correto, sendo:
 
