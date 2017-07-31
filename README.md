@@ -1,5 +1,5 @@
-Ao ler o enunciado e o exemplo, tive uma dúvida, pois analisando a frase “No exemplo, "e" é o primeiro 
-caracter Vogal da stream que não se repete após a primeira Consoante "f" o qual tem uma vogal "a" como 
+Ao ler o enunciado e o exemplo, tive uma dúvida, pois analisando a frase “No exemplo, 'e' é o primeiro 
+caracter Vogal da stream que não se repete após a primeira Consoante 'f' o qual tem uma vogal 'a' como 
 antecessora” para o input aAbBABacafe, percebi que a Vogal "a" adequa-se corretamente na regra, veja:
 
 aAbBABacafe
