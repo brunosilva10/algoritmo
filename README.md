@@ -21,6 +21,7 @@ acentuações e caracteres especiais, será necessário realizar algumas altera�
 
 SEGUEM ABAIXO OS ALGORITMOS COM AS DUAS POSSIBILIDADES:
 
-firstChar1: verificar se a vogal se repete APENAS APÓS a consoante
-firstChar2: verificar se a vogal se repete DURANTE TODA a stream
+- firstChar1: verificar se a vogal se repete APENAS APÓS a consoante
+
+- firstChar2: verificar se a vogal se repete DURANTE TODA a stream
 
